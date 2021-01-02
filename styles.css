@@ -1,4 +1,14 @@
+body {
+	background-image: url("assets/WoodPlanksBackground.jpg");
+	background-size: cover;
+}
+
+/* Adds left and right margins to containers */
 .container-fluid {
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+footer {
+	background-color: lightgray;
 }
