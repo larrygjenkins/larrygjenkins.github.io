@@ -7,7 +7,7 @@ main {
 	margin-top: 100px;
 }
 
-/* Adds left and right margins and background color to containers */
+/* Adds left and right margins and background color to containers within the Main element */
 main.container-fluid {
 	margin-left: 20px;
 	margin-right: 20px;
