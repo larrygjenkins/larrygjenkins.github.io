@@ -3,11 +3,14 @@ body {
 	background-size: cover;
 }
 
-/* Adds left and right margins to containers */
+main {
+	margin-top: 60px;
+}
+
+/* Adds left and right margins and background color to containers */
 .container-fluid {
 	margin-left: 20px;
 	margin-right: 20px;
-	margin-top: 60px;
 	background-color: white;
 }
 
