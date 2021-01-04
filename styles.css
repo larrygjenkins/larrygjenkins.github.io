@@ -14,7 +14,11 @@ main.container-fluid {
 	/* background-color: white; */
 }
 
+#aboutContent {
+	background-color: rgba(202, 166, 120, 0.952);
+}
+
 footer {
-	background-color: lightgray;
+	background-color: rgba(202, 166, 120, 0.952);
 	height: 40px;
 }
