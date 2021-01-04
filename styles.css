@@ -15,14 +15,14 @@ main.container-fluid {
 }
 
 #aboutContent {
-	background-color: rgba(202, 166, 120, 0.952);
+	background-color: rgba(185, 154, 113, 0.925);
 }
 
 #contactForm {
-	background-color: rgba(202, 166, 120, 0.952);
+	background-color: rgba(185, 154, 113, 0.925);
 }
 
 footer {
-	background-color: rgba(202, 166, 120, 0.952);
+	background-color: #af926c;
 	height: 40px;
 }
