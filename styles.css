@@ -27,10 +27,12 @@ footer {
 	height: 40px;
 } */
 
+/* Adds background color to content on about page. */
 #aboutContent {
 	background-color: rgb(228, 226, 226);
 }
 
+/* Adds background color to contact form.  */
 #contactForm {
 	background-color: rgb(228, 226, 226);
 }
