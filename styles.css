@@ -14,7 +14,7 @@ main.container-fluid {
 	/* background-color: white; */
 }
 
-#aboutContent {
+/* #aboutContent {
 	background-color: rgba(185, 154, 113, 0.925);
 }
 
@@ -24,5 +24,18 @@ main.container-fluid {
 
 footer {
 	background-color: #af926c;
+	height: 40px;
+} */
+
+#aboutContent {
+	background-color: rgb(228, 226, 226);
+}
+
+#contactForm {
+	background-color: rgb(228, 226, 226);
+}
+
+footer {
+	background-color: rgb(228, 226, 226);
 	height: 40px;
 }
