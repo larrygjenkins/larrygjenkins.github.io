@@ -41,6 +41,15 @@ footer {
 	background-color: rgb(228, 226, 226);
 }
 
+/* Provides the padding around the placeholder images on the portfolio page */
+#placeholderImage1,
+#placeholderImage2,
+#placeholderImage3,
+#placeholderImage4,
+#placeholderImage5 {
+	padding: 5px;
+}
+
 footer {
 	background-color: rgb(228, 226, 226);
 	height: 40px;
