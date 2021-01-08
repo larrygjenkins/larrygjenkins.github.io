@@ -10,8 +10,3 @@ For now, visitors can contact the author using the email, LinkedIn, or Github ic
 
 ## Location
 Use the following link to access the site: [Larry Jenkins' Portfolio](https://larrygjenkins.github.io/index.html)
-
-## Example Image
-Following is an image of the portfolio homepage:
-
-![Larry Jenkins' Portfolio](/assets/AboutMeScreenshot.png)
