@@ -23,6 +23,10 @@ main.container-fluid {
 	background-color: rgb(228, 226, 226);
 }
 
+#profilePic {
+	margin-right: 5px;
+}
+
 /* Adds background color to contact form.  */
 #contactForm {
 	background-color: rgb(228, 226, 226);
