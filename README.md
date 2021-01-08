@@ -14,4 +14,4 @@ Use the following link to access the site: [Larry Jenkins' Portfolio](https://la
 ## Example Image
 Following is an image of the portfolio homepage:
 
-![Horiseon Homepage](./assets/images/Horiseon-Homepage.png)
+![Larry Jenkins' Portfolio](./assets/AboutMeScreenshot.png)
