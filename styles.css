@@ -57,3 +57,19 @@ footer {
 footer p {
 	text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+	#aboutContent,
+	#portfolioBoxes,
+	#contactForm {
+		width: 500px;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	#aboutContent,
+	#portfolioBoxes,
+	#contactForm {
+		width: 400px;
+	}
+}
