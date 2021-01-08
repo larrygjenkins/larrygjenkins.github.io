@@ -15,3 +15,4 @@ Use the following link to access the site: [Larry Jenkins' Portfolio](https://la
 Following is an image of the portfolio homepage:
 
 ![Larry Jenkins' Portfolio](./assets/AboutMeScreenshot.png)
+![Larry Jenkins' Portfolio](assets/AboutMeScreenshot.png)
