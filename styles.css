@@ -14,17 +14,8 @@ main.container-fluid {
 	/* background-color: white; */
 }
 
-/* #aboutContent {
-	background-color: rgba(185, 154, 113, 0.925);
-}
-
-#contactForm {
-	background-color: rgba(185, 154, 113, 0.925);
-}
-
-footer {
-	background-color: #af926c;
-	height: 40px;
+/* nav {
+	font-weight: bold;
 } */
 
 /* Adds background color to content on about page. */
@@ -57,4 +48,10 @@ footer {
 footer {
 	background-color: rgb(228, 226, 226);
 	height: 40px;
+}
+
+footer p {
+	text-align: center;
+	font-weight: bold;
+	font-size: large;
 }
