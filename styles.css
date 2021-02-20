@@ -19,10 +19,30 @@ main.container-fluid {
 }
 
 /* Adds background color to content on about page. */
-#aboutContent,
+/* #aboutContent,
 #skills {
 	background-color: rgb(226, 230, 248);
 	font-size: large;
+} */
+
+#aboutContent {
+	background-color: rgb(11, 114, 139);
+	border-radius: 2%;
+	font-size: large;
+	color: white;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#skills {
+	background-color: rgb(11, 114, 139);
+	border-radius: 2%;
+	font-size: large;
+	color: white;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 #profilePic {
