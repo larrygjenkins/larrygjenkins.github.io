@@ -25,7 +25,7 @@ main.container-fluid {
 }
 
 #aboutContent {
-	background-color: rgb(11, 114, 139);
+	background-color: rgba(11, 114, 139, 0.8);
 	border-radius: 2%;
 	font-size: large;
 	color: white;
@@ -35,7 +35,7 @@ main.container-fluid {
 }
 
 #skills {
-	background-color: rgb(11, 114, 139);
+	background-color: rgba(11, 114, 139, 0.8);
 	border-radius: 2%;
 	font-size: large;
 	color: white;
@@ -50,30 +50,16 @@ main.container-fluid {
 
 /* Adds background color to contact form.  */
 #contactForm {
-	background-color: rgb(11, 114, 139);
+	background-color: rgba(11, 114, 139, 0.8);
 	color: white;
 }
 
 #portfolioBoxes {
-	background-color: rgb(11, 114, 139);
+	background-color: rgba(11, 114, 139, 0.8);
 	color: white;
 }
 
-/* Provides the padding around the placeholder images on the portfolio page */
-#placeholderImage1,
-#placeholderImage2,
-#placeholderImage3,
-#placeholderImage4,
-#placeholderImage5 {
-	padding: 10px;
-}
-
-#placeholderImage5 {
-	margin-bottom: 10px;
-}
-
 footer {
-	/* background-color: rgb(226, 230, 248); */
 	background-color: rgb(11, 114, 139);
 	height: 40px;
 }
