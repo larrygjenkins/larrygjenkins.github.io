@@ -15,6 +15,13 @@ For now, visitors can contact the author using the email, LinkedIn, or Github ic
 2. CSS
 3. Bootstrap
 
+## Questions?
+Contact me at the following locations:
+
+Email: 
+GitHub: 
+LinkedIn: <a href="https://www.linkedin.com/in/l-jenkins/"><i class="fab fa-linkedin fa-2x"></i></a>
+
 ## Location
 Use the following link to access the repository associated with this project: [Larry Jenkins' Portfolio Repository](https://github.com/larrygjenkins/larrygjenkins.github.io)
 
