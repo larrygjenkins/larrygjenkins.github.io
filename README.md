@@ -18,8 +18,8 @@ For now, visitors can contact the author using the email, LinkedIn, or Github ic
 ## Questions?
 Contact me at the following locations:
 
-* Email: 
-* GitHub: 
+* Email: <a href="mailto:larrygjenkins@gmail.com">larrygjenkins@gmail.com</a>
+* GitHub: <a href="https://github.com/larrygjenkins">github.com/larrygjenkins</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/l-jenkins/">linkedin.com/in/l-jenkins</a>
 
 ## Location
