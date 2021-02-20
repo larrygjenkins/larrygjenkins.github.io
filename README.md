@@ -1,4 +1,6 @@
-# larrygjenkins.github.io
+# Larry Jenkins Portfolio
+![GitHub contributors](https://img.shields.io/github/contributors/larrygjenkins/larrygjenkins.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 The goal of this project was to create my first portfolio site, using the Bootstrap framework. Throughout the pages, viewers will notice large gaps of space between the main content of a page and the right side of their respective screens. The goal was to experiment with Bootstraps's grid system and have an column devoid of content that would occupy varying space on the screen as the viewport became smaller. 
 
