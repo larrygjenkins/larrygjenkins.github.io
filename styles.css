@@ -16,26 +16,26 @@ main.container-fluid {
 
 .navbar {
 	font-weight: bold;
-	background-color: rgb(68, 94, 209);
 }
 
 /* Adds background color to content on about page. */
 #aboutContent,
 #skills {
 	background-color: rgb(226, 230, 248);
+	font-size: large;
 }
 
 #profilePic {
-	margin-right: 5px;
+	margin-right: 10px;
 }
 
 /* Adds background color to contact form.  */
 #contactForm {
-	background-color: rgb(228, 226, 226);
+	background-color: rgb(226, 230, 248);
 }
 
 #portfolioBoxes {
-	background-color: rgb(228, 226, 226);
+	background-color: rgb(226, 230, 248);
 }
 
 /* Provides the padding around the placeholder images on the portfolio page */
@@ -62,6 +62,7 @@ footer p {
 
 @media screen and (max-width: 768px) {
 	#aboutContent,
+	#skills,
 	#portfolioBoxes,
 	#contactForm {
 		width: 500px;
@@ -70,6 +71,7 @@ footer p {
 
 @media screen and (max-width: 576px) {
 	#aboutContent,
+	#skills,
 	#portfolioBoxes,
 	#contactForm {
 		width: 400px;
