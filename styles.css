@@ -82,9 +82,20 @@ footer p {
 	text-align: center;
 }
 
-i,
-#toggler {
+i {
 	color: white;
+}
+
+#webDevRedemptionImg,
+#pwdGenImg,
+#jsQuizImg {
+	height: 400px;
+	width: 500px;
+	display: block;
+}
+
+.projectImgText {
+	text-align: center;
 }
 
 @media screen and (max-width: 768px) {
