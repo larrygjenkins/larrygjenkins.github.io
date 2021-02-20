@@ -10,12 +10,21 @@ Finally, the Contact page contains the beginnings of a form that allows a visito
 
 For now, visitors can contact the author using the email, LinkedIn, or Github icons available in the footer of each page.
 
+## Technologies Used
+1. HTML
+2. CSS
+3. Bootstrap
+
 ## Location
 Use the following link to access the repository associated with this project: [Larry Jenkins' Portfolio Repository](https://github.com/larrygjenkins/larrygjenkins.github.io)
 
 Use the following link to access the site: [Larry Jenkins' Portfolio](https://larrygjenkins.github.io/index.html)
 
 ## Example Images
-Following is an image of the portfolio site:
+Following is an image of the site's homepage:
 
 ![Larry Jenkins' Portfolio Homepage](./assets/images/AboutMeScreenshot.PNG)
+
+Following is an image of the portfolio page:
+
+![Larry Jenkins' Portfolio Homepage](./assets/images/PortfolioPageScreenshot.PNG)
