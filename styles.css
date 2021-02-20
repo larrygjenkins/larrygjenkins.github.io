@@ -14,9 +14,10 @@ main.container-fluid {
 	/* background-color: white; */
 }
 
-/* nav {
+.navbar {
 	font-weight: bold;
-} */
+	background-color: rgb(68, 94, 209);
+}
 
 /* Adds background color to content on about page. */
 #aboutContent,
@@ -51,7 +52,7 @@ main.container-fluid {
 }
 
 footer {
-	background-color: rgb(228, 226, 226);
+	background-color: rgb(226, 230, 248);
 	height: 40px;
 }
 
